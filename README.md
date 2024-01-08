@@ -23,7 +23,7 @@ plt.show()
 ```
 ![image](https://user-images.githubusercontent.com/110837675/226807037-ff44e509-7594-4bad-8253-4e75370a6508.png)
 
-#### A. Business situation by year (Tình hình kinh doanh theo năm)
+#### A. Business situation by year 
 ```php
 import plotly.express as px
 
